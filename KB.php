@@ -9,6 +9,7 @@
     <h1> Menghitung Pecahan Uang </h1>
     <h1>Pecahan Uang</h1>
     <p>Menghitung Pecahan Uang di PHP</p>
+    Pushing Origin to Git
     <form method = "post">
     Masukan jumlah uang <input type= "text" name="uang"><br><br>
     <input type= "submit" name="submit" value= "proses">
